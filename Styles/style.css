@@ -660,7 +660,7 @@ body.apartment {
 #owl-two .item:hover .zoom{
     opacity: 1;
 }
-
+}
 @media (max-width: 991.98px) {
     .carousel-caption h1 {
     font-size: 2rem;
